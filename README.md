@@ -179,7 +179,7 @@ Flop
 
 
 ### RESULTS 
-By this we have verified the truth table of JK and SR using verilog.
+By this we have verified the truth table of SR, JK, D and T using verilog.
 
 
 
